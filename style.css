@@ -790,8 +790,16 @@ h4 {
     color: #000000!important;
 }
 
+.tc-grey {
+    color: #575757!important;
+}
+
 .text-larger {
     font-size: 18px;
+}
+
+.text-italic {
+    font-style: italic;
 }
 
 .btn-atomic-tangerine {
